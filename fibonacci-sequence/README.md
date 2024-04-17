@@ -2,6 +2,6 @@
 
 ## Flowchart
 
-![flowchart](/fibonacci-sequence/fibonacci_sequence_flowchart.JPG)
+![flowchart](/fibonacci-sequence/fibonacci_sequence_flowchart.JPG.png)
 
 
